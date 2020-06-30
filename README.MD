@@ -1,5 +1,5 @@
 ### Lista de exercício 3
-<p>Lista com 4 exercicios sobre javascript para compartilhar com os amigos da classe</p>
+<p>Lista com 4 exercicios resolvidos sobre javascript para compartilhar com os amigos da classe</p>
 
 #### :airplane: Rodando
 ```
